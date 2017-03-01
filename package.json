@@ -1,0 +1,27 @@
+{
+  "name": "baku",
+  "version": "1.0.0",
+  "description": "Service provider-independent object database that can be backed by Firebase real-time database, Mongdb or traditional relational databases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achinwo/endodb.git"
+  },
+  "keywords": [
+    "firebase",
+    "database",
+    "agnostic",
+    "sql",
+    "msql",
+    "postgres"
+  ],
+  "author": "anthony.chinwo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achinwo/endodb/issues"
+  },
+  "homepage": "https://github.com/achinwo/endodb#readme"
+}
