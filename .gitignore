@@ -5,6 +5,7 @@ npm-debug.log*
 
 .idea
 
+serviceAccountKey.json
 # Runtime data
 pids
 *.pid

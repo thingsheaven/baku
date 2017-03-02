@@ -8,20 +8,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achinwo/endodb.git"
+    "url": "git+https://github.com/thingsheaven/baku.git"
   },
   "keywords": [
     "firebase",
     "database",
-    "agnostic",
-    "sql",
-    "msql",
-    "postgres"
+    "agnosticdb",
+    "json-s",
+    "jsons"
   ],
   "author": "anthony.chinwo@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/achinwo/endodb/issues"
+    "url": "https://github.com/thingsheaven/baku/issues"
   },
-  "homepage": "https://github.com/achinwo/endodb#readme"
+  "homepage": "https://github.com/thingsheaven/baku#readme",
+  "dependencies": {
+    "firebase": "^3.7.0",
+    "firebase-admin": "^4.1.1"
+  }
 }
